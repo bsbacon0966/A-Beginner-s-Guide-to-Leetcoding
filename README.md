@@ -43,6 +43,7 @@ Difficult: 🧠🧠
 |2390|[removing-stars-from-a-string](https://leetcode.com/problems/removing-stars-from-a-string/description/?envType=study-plan-v2&envId=leetcode-75)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/removing-stars-from-a-string.cpp)|
 |735|[asteroid-collision](https://leetcode.com/problems/asteroid-collision/?envType=study-plan-v2&envId=leetcode-75)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/asteroid-collision.cpp)|
 |394|[decode-string](https://leetcode.com/problems/decode-string/description/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/decode-string.cpp)|
+|150|[evaluate-reverse-polish-notation]()|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/evaluate-reverse-polish-notation.cpp)|
 
 ## Queue
 
