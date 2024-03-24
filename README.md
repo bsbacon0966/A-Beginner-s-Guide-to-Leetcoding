@@ -51,6 +51,7 @@ Difficult: 🧠🧠
 Difficult: 🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
+|649|[dota2-senate](https://leetcode.com/problems/dota2-senate/description/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/dota2-senate.cpp)|
 
 ## Priority_Queue
 *Warning : In order to understand this chapter, you must first have read Queue*
@@ -86,9 +87,24 @@ Difficult: 🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 
+## Binary Search
+*Warning : In order to understand this chapter, you must first have read Tree*
+
+Difficult: 🧠🧠
+| # | Title | Difficulty | Solution |
+|---| ----- | -------- | ---------- |
+
+
 ## Prefix Sum
 *Warning : In order to understand this chapter, you must first have read Two_pointer and Map (or hashtable)*
 
 Difficult: 🧠🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
+
+## Brain teaser 
+Difficult: 🧠 - 🧠🧠🧠
+| # | Title | Difficulty | Solution |
+|---| ----- | -------- | ---------- |
+|1653|[minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/minimum-deletions-to-make-string-balanced.cpp)|
+|128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/longest-consecutive-sequence.cpp)|
