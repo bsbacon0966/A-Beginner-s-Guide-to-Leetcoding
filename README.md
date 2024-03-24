@@ -15,6 +15,7 @@ For LeetCode beginners, their understanding of the problems can be used for revi
 ⭐ : The problem that is prefect for this theme
 
 ## Hashing (Hashing Table) 
+
 Difficult: 🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
@@ -24,6 +25,7 @@ Difficult: 🧠
 |149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line/description/)|🔴Hard⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/max-points-on-a-line.cpp)|
 
 ## Two Pointer 
+
 Difficult: 🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
@@ -33,22 +35,26 @@ Difficult: 🧠
 |2540|[minimum-common-value](https://leetcode.com/problems/minimum-common-value/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/minimum-common-value.cpp)|
 
 ## Stack 
+
 Difficult: 🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 
 ## Queue
+
 Difficult: 🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 
 ## Priority_Queue
 *Warning : In order to understand this chapter, you must first have read Queue*
+
 Difficult: 🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 
 ## Backtracking
+
 Difficult: 🧠🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
@@ -59,18 +65,21 @@ Difficult: 🧠🧠🧠
 
 ## Linked_List
 *Warning : In order to understand this chapter, you must first have known about pointer*
+
 Difficult: 🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 
 ## Tree
 *Warning : In order to understand this chapter, you must first have read Linked_List*
+
 Difficult: 🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 
 ## Prefix Sum
 *Warning : In order to understand this chapter, you must first have read Two_pointer and Map (or hashtable)*
+
 Difficult: 🧠🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
