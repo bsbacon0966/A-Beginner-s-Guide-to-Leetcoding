@@ -1,5 +1,7 @@
 # Leetcode
 For LeetCode beginners, their understanding of the problems can be used for review and to showcase mine thinking process.
+# My score
+![image](https://github.com/bsbacon0966/Leetcode-/assets/114125629/a09acf6a-ef19-4d3a-875c-3377baf0e34a)
 
 # My Learning Path
 
@@ -12,7 +14,8 @@ For LeetCode beginners, their understanding of the problems can be used for revi
 
 ⭐ : The problem that is prefect for this theme
 
-## Hashing (Hashing Table) Difficult: 🧠
+## Hashing (Hashing Table) 
+Difficult: 🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|🟢Easy|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/two-sum.cpp)|
@@ -20,8 +23,19 @@ For LeetCode beginners, their understanding of the problems can be used for revi
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/group-anagrams.cpp)|
 |149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line/description/)|🔴Hard⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/max-points-on-a-line.cpp)|
 
-## Two Pointer Difficult: 🧠
+## Two Pointer 
+Difficult: 🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/)|🟢Easy|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/valid-palindrome.cpp)|
+|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/description)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/container-with-most-water.cpp)|
+|1679|[max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/max-number-of-k-sum-pairs.cpp)|
+|2540|[minimum-common-value](https://leetcode.com/problems/minimum-common-value/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/minimum-common-value.cpp)|
+
+## Backtracking
+Difficult: 🧠🧠
+| # | Title | Difficulty | Solution |
+|---| ----- | -------- | ---------- |
+|37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver/description/)|🔴Hard⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/sudoku-solver.cpp)|
+
 
