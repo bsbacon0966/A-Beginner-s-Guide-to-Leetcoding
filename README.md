@@ -76,14 +76,20 @@ Difficult: 🧠🧠🧠
 ## Linked_List
 *Warning : In order to understand this chapter, you must first have known about pointer*
 
-Difficult: 🧠🧠
+Difficult: 🧠🧠 - 🧠🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
-
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)|🟢Easy|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/linked-list-cycle.cpp)|
+|92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii/description)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/reverse-linked-list-ii.cpp)|
+|25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|🔴Hard|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/reverse-nodes-in-k-group.cpp)|
+|19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/remove-nth-node-from-end-of-list.cpp)|
+|146|[lru-cache](https://leetcode.com/problems/lru-cache/description/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/LRU.cpp)|
+|XX|[]()|🟠Medium|[C++]()|
+|XX|[]()|🟠Medium|[C++]()|
 ## Tree
 *Warning : In order to understand this chapter, you must first have read Linked_List*
 
-Difficult: 🧠🧠
+Difficult: 🧠🧠 - 🧠🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 
@@ -98,7 +104,7 @@ Difficult: 🧠🧠
 ## Prefix Sum
 *Warning : In order to understand this chapter, you must first have read Two_pointer and Map (or hashtable)*
 
-Difficult: 🧠🧠🧠
+Difficult: 🧠🧠 - 🧠🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 
