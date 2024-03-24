@@ -63,7 +63,7 @@ Difficult: 🧠🧠🧠
 |40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/Combination_sum_II.cpp)|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver/description/)|🔴Hard⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/sudoku-solver.cpp)|
 |51|[n-queens](https://leetcode.com/problems/n-queens/description/)|🔴Hard⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/n-queens.cpp)|
-|52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii/description/)|🔴Hard⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/n-queens-ii.cpp)|
+|52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii/description/)|🔴Hard|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/n-queens-ii.cpp)|
 
 
 
