@@ -8,7 +8,7 @@ For LeetCode beginners, their understanding of the problems can be used for revi
 
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|🟢Easy|[[./solution_CPP/two-sum.cpp]](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/two-sum.cpp)|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|🟢Easy|[[CPP]](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/two-sum.cpp)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|🟠Medium||
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|🟠Medium||
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|🔴Hard||
