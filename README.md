@@ -8,9 +8,9 @@ For LeetCode beginners, their understanding of the problems can be used for revi
 
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|:::success Easy :::||
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium||
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium||
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard||
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|Easy||
-|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |Hard||
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|🟢Easy||
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|🟠Medium||
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|🟠Medium||
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|🔴Hard||
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|🟢Easy||
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |🔴Hard||
