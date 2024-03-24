@@ -23,6 +23,7 @@ Difficult: 🧠
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|🟢Easy|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/roman-to-integer.cpp)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/group-anagrams.cpp)|
 |149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line/description/)|🔴Hard⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/max-points-on-a-line.cpp)|
+|1657|[determine-if-two-strings-are-close](https://leetcode.com/problems/determine-if-two-strings-are-close/?envType=study-plan-v2&envId=leetcode-75)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/determine-if-two-strings-are-close.cpp)|
 
 ## Two Pointer 
 
@@ -64,8 +65,7 @@ Difficult: 🧠🧠🧠
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver/description/)|🔴Hard⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/sudoku-solver.cpp)|
 |51|[n-queens](https://leetcode.com/problems/n-queens/description/)|🔴Hard⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/n-queens.cpp)|
 |52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii/description/)|🔴Hard|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/n-queens-ii.cpp)|
-
-
+|980|[unique-paths-iii](https://leetcode.com/problems/unique-paths-iii/description/)|🔴Hard|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/unique-paths-iii.cpp)|
 
 ## Linked_List
 *Warning : In order to understand this chapter, you must first have known about pointer*
