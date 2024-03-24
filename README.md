@@ -15,4 +15,4 @@ For LeetCode beginners, their understanding of the problems can be used for revi
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|🟢Easy|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/two-sum.cpp)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|🟢Easy|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/roman-to-integer.cpp)|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/group-anagrams.cpp)|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/group-anagrams.cpp)|
