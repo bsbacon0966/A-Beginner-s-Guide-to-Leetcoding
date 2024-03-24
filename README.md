@@ -9,10 +9,12 @@ For LeetCode beginners, their understanding of the problems can be used for revi
 |🟢Easy|    |🟠Medium|     |🔴Hard|    [C++]()|
 
 |XX|[]()|🟠Medium|[C++]()|
-
+⭐ : The problem that is prefect for this theme
 ## Hashing (Hashing Table)
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|🟢Easy|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/two-sum.cpp)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|🟢Easy|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/roman-to-integer.cpp)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/group-anagrams.cpp)|
+|149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line/description/)|🔴Hard|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/max-points-on-a-line.cpp)|
+
