@@ -1,5 +1,5 @@
 # Leetcode
-對於Leetcode的小白理解，就留著當複習跟展示自己的思路
+For LeetCode beginners, their understanding of the problems can be used for review and to showcase their own thinking process.
 
 # 我認為的學習路線
 
