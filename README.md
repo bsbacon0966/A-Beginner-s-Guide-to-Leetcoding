@@ -73,6 +73,15 @@ Difficult: 🧠🧠🧠
 |52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii/description/)|🔴Hard|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/n-queens-ii.cpp)|
 |980|[unique-paths-iii](https://leetcode.com/problems/unique-paths-iii/description/)|🔴Hard|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/unique-paths-iii.cpp)|
 
+## Set
+
+Difficult: 🧠🧠
+| # | Title | Difficulty | Solution |
+|---| ----- | -------- | ---------- |
+|442|[find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/find-all-duplicates-in-an-array.cpp)|
+|3002|[maximum-size-of-a-set-after-removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/maximum-size-of-a-set-after-removals.cpp)|
+||[]()|🟠Medium|[C++]()|
+||[]()|🟠Medium|[C++]()|
 ## Linked_List
 *Warning : In order to understand this chapter, you must first have known about pointer*
 
@@ -84,7 +93,7 @@ Difficult: 🧠🧠 - 🧠🧠🧠
 |25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|🔴Hard|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/reverse-nodes-in-k-group.cpp)|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/remove-nth-node-from-end-of-list.cpp)|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache/description/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/LRU.cpp)|
-|XX|[]()|🟠Medium|[C++]()|
+|2130|[maximum-twin-sum-of-a-linked-list](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/maximum-twin-sum-of-a-linked-list.cpp)|
 |XX|[]()|🟠Medium|[C++]()|
 ## Tree
 *Warning : In order to understand this chapter, you must first have read Linked_List*
