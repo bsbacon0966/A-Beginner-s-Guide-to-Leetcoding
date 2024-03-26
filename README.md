@@ -1,4 +1,3 @@
-thank's to everyone
 # Leetcode
 For LeetCode beginners, their understanding of the problems can be used for review and to showcase mine thinking process.
 # My score
@@ -124,3 +123,4 @@ Difficult: 🧠 - 🧠🧠🧠
 |---| ----- | -------- | ---------- |
 |1653|[minimum-deletions-to-make-string-balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/minimum-deletions-to-make-string-balanced.cpp)|
 |128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/longest-consecutive-sequence.cpp)|
+
