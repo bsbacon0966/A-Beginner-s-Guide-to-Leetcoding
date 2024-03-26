@@ -53,7 +53,7 @@ Difficult: 🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
 |649|[dota2-senate](https://leetcode.com/problems/dota2-senate/description/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/dota2-senate.cpp)|
-
+|621|[task-scheduler](https://leetcode.com/problems/task-scheduler/)|🟠Medium|[C++](https://github.com/bsbacon0966/A-Beginner-s-Guide-to-Leetcoding/blob/main/solution_CPP/task-scheduler.cpp)|
 ## Priority_Queue
 *Warning : In order to understand this chapter, you must first have read Queue*
 
