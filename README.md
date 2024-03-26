@@ -1,3 +1,4 @@
+what
 # Leetcode
 For LeetCode beginners, their understanding of the problems can be used for review and to showcase mine thinking process.
 # My score
