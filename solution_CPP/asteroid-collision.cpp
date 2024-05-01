@@ -1,5 +1,5 @@
 // if we enconter the negative value , we need to compare the negative value and the top element in the stack
-
+// if we enconter the positive value , we need to compare the positive value
 
 class Solution {
 public:
