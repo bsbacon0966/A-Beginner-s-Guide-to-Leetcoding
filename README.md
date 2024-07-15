@@ -1,10 +1,10 @@
 
 # Leetcode
 For LeetCode beginners, their understanding of the problems can be used for review and to showcase mine thinking process.
-# My Leetcode Personal page
+# My Leetcode Personal Proflie
 https://leetcode.com/u/bohemian0966/
 # My score
-![image](https://github.com/bsbacon0966/Leetcode-/assets/114125629/a09acf6a-ef19-4d3a-875c-3377baf0e34a)
+![](https://leetcard.jacoblin.cool/bohemian0966?theme=dark&font=Kanit)
 
 # My Learning Path
 
