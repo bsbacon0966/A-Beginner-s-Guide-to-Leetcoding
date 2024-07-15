@@ -7,7 +7,7 @@ For LeetCode beginners, their understanding of the problems can be used for revi
 # My Learning Path
 
 ![47633](https://github.com/bsbacon0966/Leetcode-/assets/114125629/b3156792-eff1-4425-a48e-71d2e5a40c6e)
-
+https://leetcode.com/u/bohemian0966/
 
 |🟢Easy|    |🟠Medium|     |🔴Hard|    [C++]()|
 
