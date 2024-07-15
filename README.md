@@ -102,7 +102,7 @@ Difficult: 🧠🧠 - 🧠🧠🧠
 
 Difficult: 🧠🧠 - 🧠🧠🧠
 | # | Title | Difficulty | Solution |
-|---| ----- | -------- | ---------- |
+|2196| [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) |🟠Medium| [C++](https://github.com/bsbacon0966/A-Beginner-s-Guide-to-Leetcoding/blob/main/solution_CPP/Create%20Binary%20Tree%20From%20Descriptions.cpp)|
 
 ## Binary Search
 *Warning : In order to understand this chapter, you must first have read Tree*
