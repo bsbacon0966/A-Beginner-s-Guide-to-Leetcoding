@@ -42,7 +42,7 @@ Difficult: 🧠
 Difficult: 🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
-|713| Subarray Product Less Than K | 🟠Medium | [C++](https://github.com/bsbacon0966/A-Beginner-s-Guide-to-Leetcoding/blob/main/solution_CPP/Subarray%20Product%20Less%20Than%20K.cpp) |
+|713| [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | 🟠Medium | [C++](https://github.com/bsbacon0966/A-Beginner-s-Guide-to-Leetcoding/blob/main/solution_CPP/Subarray%20Product%20Less%20Than%20K.cpp) |
 
 ## Stack 
 
