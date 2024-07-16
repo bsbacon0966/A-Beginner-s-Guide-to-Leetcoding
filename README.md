@@ -1,13 +1,14 @@
 
 # Leetcode
 For LeetCode beginners, their understanding of the problems can be used for review and to showcase mine thinking process.
+# My Leetcode Personal Proflie
+https://leetcode.com/u/bohemian0966/
 # My score
-![image](https://github.com/bsbacon0966/Leetcode-/assets/114125629/a09acf6a-ef19-4d3a-875c-3377baf0e34a)
+![](https://leetcard.jacoblin.cool/bohemian0966?theme=dark&font=Kanit)
 
 # My Learning Path
 
 ![47633](https://github.com/bsbacon0966/Leetcode-/assets/114125629/b3156792-eff1-4425-a48e-71d2e5a40c6e)
-
 
 |🟢Easy|    |🟠Medium|     |🔴Hard|    [C++]()|
 
@@ -102,6 +103,7 @@ Difficult: 🧠🧠 - 🧠🧠🧠
 Difficult: 🧠🧠 - 🧠🧠🧠
 | # | Title | Difficulty | Solution |
 |---| ----- | -------- | ---------- |
+|2196| [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) |🟠Medium| [C++](https://github.com/bsbacon0966/A-Beginner-s-Guide-to-Leetcoding/blob/main/solution_CPP/Create%20Binary%20Tree%20From%20Descriptions.cpp)|
 
 ## Binary Search
 *Warning : In order to understand this chapter, you must first have read Tree*
