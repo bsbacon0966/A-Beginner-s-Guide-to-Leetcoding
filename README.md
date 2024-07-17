@@ -37,6 +37,13 @@ Difficult: 🧠
 |1679|[max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|🟠Medium|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/max-number-of-k-sum-pairs.cpp)|
 |2540|[minimum-common-value](https://leetcode.com/problems/minimum-common-value/)|🟠Medium⭐|[C++](https://github.com/bsbacon0966/Leetcode-/blob/main/solution_CPP/minimum-common-value.cpp)|
 
+## Sliding window
+*Warning : In order to understand this chapter, you must first have read Two Pointer*
+Difficult: 🧠🧠
+| # | Title | Difficulty | Solution |
+|---| ----- | -------- | ---------- |
+|713| [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | 🟠Medium | [C++](https://github.com/bsbacon0966/A-Beginner-s-Guide-to-Leetcoding/blob/main/solution_CPP/Subarray%20Product%20Less%20Than%20K.cpp) |
+
 ## Stack 
 
 Difficult: 🧠🧠
